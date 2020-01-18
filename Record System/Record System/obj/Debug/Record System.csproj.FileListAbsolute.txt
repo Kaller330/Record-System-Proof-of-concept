@@ -1,0 +1,9 @@
+D:\Documents\GitHub\Record-System-Proof-of-concept\Record System\Record System\bin\Debug\Record System.exe.config
+D:\Documents\GitHub\Record-System-Proof-of-concept\Record System\Record System\bin\Debug\Record System.exe
+D:\Documents\GitHub\Record-System-Proof-of-concept\Record System\Record System\bin\Debug\Record System.pdb
+D:\Documents\GitHub\Record-System-Proof-of-concept\Record System\Record System\obj\Debug\Record System.csprojAssemblyReference.cache
+D:\Documents\GitHub\Record-System-Proof-of-concept\Record System\Record System\obj\Debug\Record_System.recordSystem.resources
+D:\Documents\GitHub\Record-System-Proof-of-concept\Record System\Record System\obj\Debug\Record_System.Properties.Resources.resources
+D:\Documents\GitHub\Record-System-Proof-of-concept\Record System\Record System\obj\Debug\Record System.csproj.GenerateResource.cache
+D:\Documents\GitHub\Record-System-Proof-of-concept\Record System\Record System\obj\Debug\Record System.exe
+D:\Documents\GitHub\Record-System-Proof-of-concept\Record System\Record System\obj\Debug\Record System.pdb
